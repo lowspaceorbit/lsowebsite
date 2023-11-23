@@ -41,7 +41,7 @@ body {
   p1 {color: white;
   font-size: 25px
 }
-  h1 {color: white; text-align: center;}
+  h1 {color: white; font-size: 100px; text-align: center;}
 
   button {color: black;}
 
