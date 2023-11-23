@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: lightblue;
     padding: 20px;
   }
 
@@ -10,6 +10,7 @@ body {
     width: 100%;
     text-align: center;
     padding: 20px;
+    background-color: black;
   }
 
   ul {
@@ -17,8 +18,8 @@ body {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
   }
+  
   
   li {
     float: left;
@@ -28,7 +29,7 @@ body {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14px 160px;
     text-decoration: none;
   }
   
